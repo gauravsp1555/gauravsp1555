@@ -99,6 +99,10 @@ Hi, I’m Gaurav Prakash Sapkar, a Computer Engineering student and AI/ML intern
 
 🔗 Repository: https://github.com/gauravsp1555/AI_RESUME_ANALYZER-
 
+### React-ToDo-App
+
+🔗 Repository: https://github.com/gauravsp1555/React-Todo-App
+
 ---
 
 <!-- TODO: Add more projects here in the same format as above, e.g.:
