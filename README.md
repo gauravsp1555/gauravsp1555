@@ -23,9 +23,12 @@
 
 📍 Pune, India • 💼 AI-ML Intern @SURE Trust • 🧠 Deep Learning | NLP | Generative AI
 
----
 
-## 🚀 Highlights
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,firebase,git,github,bootstrap,figma,mysql&theme=dark" />
+</p>
+
+## Highlights
 
 <table>
 <tr>
@@ -44,14 +47,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <!-- TODO: Personalize this paragraph with your own story/interests -->
 
 As a fresh Computer Science graduate, I specialize in data science, deep learning, and NLP. Currently working at @TechTech, I build practical, data-driven applications using Python. Leveraging my foundational experience as an AI/ML Intern at SURE Trust, I am dedicated to continuously sharpening my skills in applied machine learning to solve real-world problems.
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -89,13 +92,17 @@ As a fresh Computer Science graduate, I specialize in data science, deep learnin
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 👁️ AI_New_Anchor
+###  AI_New_Anchor
 
 <!-- TODO: Add a real description, tech stack, and metrics for this project -->
 
 🔗 Repository: https://github.com/gauravsp1555/AI_New_Anchor
+
+### Ai_Resume_Analyzer
+
+🔗 Repository: https://github.com/gauravsp1555/AI_RESUME_ANALYZER-
 
 ---
 
@@ -117,7 +124,7 @@ Short description of what it does and why it's interesting.
 
 -->
 
-## 💼 Experience
+##  Experience
 
 ### AI/ML Intern — SURE Trust
 
@@ -135,7 +142,7 @@ Short description of what it does and why it's interesting.
 | Certification Name | Issuer Name |
 -->
 
-## 🔭 Currently Building
+##  Currently Building
 
 <!-- TODO: List what you're actively working on/learning -->
 - 🧠 Deep Learning & NLP projects
@@ -145,7 +152,7 @@ Short description of what it does and why it's interesting.
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -155,7 +162,7 @@ Short description of what it does and why it's interesting.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -171,7 +178,7 @@ Short description of what it does and why it's interesting.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
