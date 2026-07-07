@@ -32,12 +32,8 @@
 
 <table>
 <tr>
+<td>💼 Intern @TechTech</td>
 <td>💼 AI-ML Intern @SURE Trust</td>
-<td>🎓 Final Year CSE Undergrad</td>
-</tr>
-<tr>
-<td>🧠 Deep Learning & NLP</td>
-<td>🤖 Generative AI</td>
 </tr>
 <tr>
 <td>🐍 Python Developer</td>
@@ -48,10 +44,9 @@
 ---
 
 ## About Me
-
 <!-- TODO: Personalize this paragraph with your own story/interests -->
 
-As a fresh Computer Science graduate, I specialize in data science, deep learning, and NLP. Currently working at @TechTech, I build practical, data-driven applications using Python. Leveraging my foundational experience as an AI/ML Intern at SURE Trust, I am dedicated to continuously sharpening my skills in applied machine learning to solve real-world problems.
+Hi, I’m Gaurav Prakash Sapkar, a Computer Engineering student and AI/ML intern, passionate about building intelligent, scalable, and user-focused solutions. My journey blends full-stack development with data analysis and data science, enabling me to design applications that are not only functional but also data-driven.
 ---
 
 ##  Tech Stack
