@@ -17,11 +17,11 @@
 
 </div>
 
-### Data Scientist • AI/ML Intern @SURE Trust • Deep Learning & NLP
+### Data Scientist • Application Intern @TechTech • Full Stack Engineer
 
-🎓 **Final Year CSE Undergraduate**
+🎓 **Full Stack Engineer with Data analytics**
 
-📍 Pune, India • 💼 AI-ML Intern @SURE Trust • 🧠 Deep Learning | NLP | Generative AI
+📍 Pune, India • 💼 Application Intern @TechTech • 🧠 Full Stack Engineer 
 
 
 <p align="center">
@@ -46,44 +46,20 @@
 ## About Me
 <!-- TODO: Personalize this paragraph with your own story/interests -->
 
-Hi, I’m Gaurav Prakash Sapkar, a Computer Engineering student and AI/ML intern, passionate about building intelligent, scalable, and user-focused solutions. My journey blends full-stack development with data analysis and data science, enabling me to design applications that are not only functional but also data-driven.
----
+<h1 align="center">
+  <span style="color:#3498DB"> Application Intern @TechTech</span>  
+</h1>
+Hi, I’m Gaurav Sapkar, a Computer Engineering student and Application Intern at Tech Tech Company.  
+Currently, I contribute to software development by assisting the team in building applications and resolving bugs.  
+My journey blends full-stack development with data analysis and data science, enabling me to design solutions that are both functional and data-driven.  
+I’m passionate about creating intelligent, scalable, and user-focused applications while continuously learning and improving my skills.
 
-##  Tech Stack
 
-### Languages
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,oracle,tensorflow,pytorch,numpy,pandas,scipy,matplotlib,plotly,powerbi,aws,git,github,canva,adobe,lightroom&theme=dark" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Machine Learning & Data Science
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-### Data Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
 ---
 
