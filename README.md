@@ -55,13 +55,8 @@ My journey blends full-stack development with data analysis and data science, en
 I’m passionate about creating intelligent, scalable, and user-focused applications while continuously learning and improving my skills.
 
 
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,oracle,tensorflow,pytorch,numpy,pandas,scipy,matplotlib,plotly,powerbi,aws,git,github,canva,adobe,lightroom&theme=dark" />
-</p>
-
-
----
+## Tech Stack
+<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/dbab547f-f176-481a-95ea-bf0a7a5768d9" />
 
 ##  Featured Projects
 
