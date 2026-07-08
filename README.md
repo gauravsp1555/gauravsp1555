@@ -16,39 +16,16 @@
 <img src="https://img.shields.io/github/followers/gauravsp1555?style=for-the-badge" />
 
 </div>
-
-### Data Scientist • Application Intern @TechTech • Full Stack Engineer
-
-🎓 **Full Stack Engineer with Data analytics**
-
-📍 Pune, India • 💼 Application Intern @TechTech • 🧠 Full Stack Engineer 
-
-
+<h1 align="center">
+  <span style="color:#3498DB">📍 Pune, India • Application Intern @TechTech • Full Stack Engineer
+</span>  
+</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,firebase,git,github,bootstrap,figma,mysql&theme=dark" />
 </p>
 
-## Highlights
-
-<table>
-<tr>
-<td>💼 Intern @TechTech</td>
-<td>💼 AI-ML Intern @SURE Trust</td>
-</tr>
-<tr>
-<td>🐍 Python Developer</td>
-<td>📊 Data Science & Analytics</td>
-</tr>
-</table>
-
----
-
 ## About Me
 <!-- TODO: Personalize this paragraph with your own story/interests -->
-
-<h1 align="center">
-  <span style="color:#3498DB"> Application Intern @TechTech</span>  
-</h1>
 Hi, I’m Gaurav Sapkar, a Computer Engineering student and Application Intern at Tech Tech Company.  
 Currently, I contribute to software development by assisting the team in building applications and resolving bugs.  
 My journey blends full-stack development with data analysis and data science, enabling me to design solutions that are both functional and data-driven.  
