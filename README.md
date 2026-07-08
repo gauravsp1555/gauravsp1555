@@ -81,8 +81,7 @@ Short description of what it does and why it's interesting.
 - 🚀 Contributing to software development by assisting the team in building applications and resolving bugs.
 - 🧠 Designing solutions that are both functional and data-driven, blending full-stack development with data analysis.
 - 💡 Passionate about creating intelligent, scalable, and user-focused applications.
-  
-
+---
 ### 🏢 SURE Trust Organization (https://www.suretrustforruralyouth.com/)
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&vCenter=true&width=400&lines=AI%2FML+Artificial_Intelligence;and+Machine_learning" alt="Typing SVG" />
 
@@ -128,41 +127,34 @@ Short description of what it does and why it's interesting.
 
 ---
 
-## Connect With Me
-
-<div align="center">
-
-<a href="[https://linkedin.com/in/Gaurav-sapkar](https://www.linkedin.com/in/gaurav-sapkarofficial )">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:gauravsapkar75@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/gauravsp1555">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/gauravsp1555">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://gaurav-sapkar-zwp5bo1.gamma.site/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-
-</div>
-
----
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:7C3AED&section=footer"/>
+  Whether you want to collaborate on a project, discuss tech, or just say hi, feel free to reach out! 👇
 </p>
 
-<div align="center">
-
-### 💡 Learning, Building, and Growing One Project at a Time
-
-</div
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:YOUR_EMAIL_HERE@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" />
+  </a>&nbsp;&nbsp;
   
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" />
+  </a>&nbsp;&nbsp;
+  
+  <!-- GitHub -->
+  <a href="https://github.com/gauravsp1555">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always open to discussing Full-Stack Development, Data Science, and Machine Learning Created By Gaurav 🚀</i>
+</p>
