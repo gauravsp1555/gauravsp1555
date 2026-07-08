@@ -72,33 +72,30 @@ Short description of what it does and why it's interesting.
 🔗 Repository: https://github.com/gauravsp1555/your-repo
 
 -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Experience
 
-##  Experience
+### 🏢 Tech Tech Company
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=400&lines=Application+Intern;Software+Development;Data-Driven+Solutions" alt="Typing SVG" />
 
-### AI/ML Intern — SURE Trust
-
-<!-- TODO: Add 3-5 bullet points describing what you actually do/did in this role -->
-- Working on applied machine learning and data science tasks
-- Gaining hands-on experience with deep learning and NLP workflows
-
+**Timeline:** [June-2026] – Present  
+- 🚀 Contributing to software development by assisting the team in building applications and resolving bugs.
+- 🧠 Designing solutions that are both functional and data-driven, blending full-stack development with data analysis.
+- 💡 Passionate about creating intelligent, scalable, and user-focused applications.
 ---
 
-<!-- TODO: Uncomment and fill in if you have certifications
-## 🏆 Certifications & Recognition
+### 🏢 SURE Trust
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&vCenter=true&width=400&lines=AI%2FML+Intern;Deep+Learning;NLP+Workflows" alt="Typing SVG" />
 
-| Certification | Issuer |
-|---------------|--------|
-| Certification Name | Issuer Name |
--->
+**Timeline:** [Nov-2025] – [Feb-2026]  
+- 🤖 Worked on applied machine learning and data science tasks.
+- 📊 Gained hands-on experience with deep learning and Natural Language Processing (NLP) workflows.
 
 ##  Currently Building
 
 <!-- TODO: List what you're actively working on/learning -->
-- 🧠 Deep Learning & NLP projects
+- 🧠 Local LLM And Edge AI 
 - 🤖 Generative AI applications
 - 📊 Data Science & Analytics
-- 📚 Strengthening core CS & ML fundamentals
-
 ---
 
 ##  GitHub Activity
