@@ -25,6 +25,9 @@
 
 ## About Me
 <!-- TODO: Personalize this paragraph with your own story/interests -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=gauravsapkar75+@gmail.com;Application+Intern+%40Tech+Tech;Full-Stack+Developer;" alt="Typing SVG" />
+</p>
 Hi, I’m Gaurav Sapkar, a Computer Engineering student and Application Intern at Tech Tech Company.  
 Currently, I contribute to software development by assisting the team in building applications and resolving bugs.  
 My journey blends full-stack development with data analysis and data science, enabling me to design solutions that are both functional and data-driven.  
@@ -160,4 +163,5 @@ Short description of what it does and why it's interesting.
 
 ### 💡 Learning, Building, and Growing One Project at a Time
 
-</div>
+</div
+  
