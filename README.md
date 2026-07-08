@@ -74,17 +74,17 @@ Short description of what it does and why it's interesting.
 -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Experience
 
-### 🏢 Tech Tech Company
+### 🏢 Tech Tech Company (https://www.techtech.in/#work)
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=400&lines=Application+Intern;Software+Development;Data-Driven+Solutions" alt="Typing SVG" />
 
 **Timeline:** [June-2026] – Present  
 - 🚀 Contributing to software development by assisting the team in building applications and resolving bugs.
 - 🧠 Designing solutions that are both functional and data-driven, blending full-stack development with data analysis.
 - 💡 Passionate about creating intelligent, scalable, and user-focused applications.
----
+  
 
-### 🏢 SURE Trust
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&vCenter=true&width=400&lines=AI%2FML+Intern;Deep+Learning;NLP+Workflows" alt="Typing SVG" />
+### 🏢 SURE Trust Organization (https://www.suretrustforruralyouth.com/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&vCenter=true&width=400&lines=AI%2FML+Artificial_Intelligence;and+Machine_learning" alt="Typing SVG" />
 
 **Timeline:** [Nov-2025] – [Feb-2026]  
 - 🤖 Worked on applied machine learning and data science tasks.
