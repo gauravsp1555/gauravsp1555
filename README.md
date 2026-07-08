@@ -113,6 +113,10 @@ Short description of what it does and why it's interesting.
 
 ##  GitHub Statistics
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gauravsp1555/gauravsp1555/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravsp1555&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
