@@ -8,8 +8,7 @@
 <img width="2172" height="724" alt="Image" src="https://github.com/user-attachments/assets/8a01462f-e3ee-44e7-838d-1e8cea4d25c8" />
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Data+Scientist;AI%2FML+Intern+%40SURE+Trust;Deep+Learning+%7C+NLP+%7C+Generative+AI;Python+Developer;Final+Year+CSE+Undergrad" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Pune,+India;Application+Intern+%40TechTech;Full+Stack+Engineer" alt="Typing SVG" />
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=gauravsp1555&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
