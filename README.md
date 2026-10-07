@@ -1,128 +1,105 @@
 <div align="center">
 
-<!-- 
-  Banner image. This assumes "gaurav_sapkar_banner.png" sits in the root of this
-  repo, next to README.md. If you place it elsewhere (e.g. an /assets folder),
-  update the path below to match, e.g. "assets/gaurav_sapkar_banner.png".
--->
-<img width="2172" height="724" alt="Image" src="https://github.com/user-attachments/assets/8a01462f-e3ee-44e7-838d-1e8cea4d25c8" />
-<br>
+<!-- Banner Image -->
+<img width="100%" alt="Banner Image" src="https://github.com/user-attachments/assets/c6251088-1d07-40a9-ac24-ca657453f177" />
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Pune,+India;Application+Intern+%40TechTech;Full+Stack+Engineer" alt="Typing SVG" />
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=gauravsp1555&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/gauravsp1555?style=for-the-badge" />
+<a href="https://github.com/gauravsp1555">
+  <img src="https://komarev.com/ghpvc/?username=gauravsp1555&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+<a href="https://github.com/gauravsp1555?tab=followers">
+  <img src="https://img.shields.io/github/followers/gauravsp1555?style=for-the-badge&color=58a6ff" alt="Followers"/>
+</a>
 
 </div>
+
 <h1 align="center">
-  <span style="color:#3498DB">📍 Pune, India • Application Intern @TechTech • Full Stack Engineer
-</span>  
+  <span style="color:#3498DB">📍 Pune, India • Application Intern @TechTech • Full Stack Engineer</span>
 </h1>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,firebase,git,github,bootstrap,figma,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,firebase,git,github,bootstrap,figma,mysql&theme=dark" alt="Skills"/>
 </p>
 
-## About Me
-<!-- TODO: Personalize this paragraph with your own story/interests -->
+<hr>
+
+## 👨‍💻 About Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=gauravsapkar75+@gmail.com;Application+Intern+%40Tech+Tech;Full-Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=gauravsapkar75@gmail.com;Application+Intern+%40TechTech;Full-Stack+Developer;" alt="Typing SVG" />
 </p>
-Hi, I’m Gaurav Sapkar, a Computer Engineering student and Application Intern at Tech Tech Company.  
-Currently, I contribute to software development by assisting the team in building applications and resolving bugs.  
-My journey blends full-stack development with data analysis and data science, enabling me to design solutions that are both functional and data-driven.  
+
+Hi, I’m **Gaurav Sapkar**, a Computer Engineering student and Application Intern at TechTech.  
+Currently, I contribute to software development by assisting the team in building applications and resolving bugs. My journey blends **full-stack development** with **data analysis** and **data science**, enabling me to design solutions that are both functional and data-driven.  
 I’m passionate about creating intelligent, scalable, and user-focused applications while continuously learning and improving my skills.
-
-
-## Tech Stack
-<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/dbab547f-f176-481a-95ea-bf0a7a5768d9" />
-
-##  Featured Projects
-
-###  AI_New_Anchor
-
-<!-- TODO: Add a real description, tech stack, and metrics for this project -->
-
-🔗 Repository: https://github.com/gauravsp1555/AI_New_Anchor
-
-### Ai_Resume_Analyzer
-
-🔗 Repository: https://github.com/gauravsp1555/AI_RESUME_ANALYZER-
-
-### React-ToDo-App
-
-🔗 Repository: https://github.com/gauravsp1555/React-Todo-App
 
 ---
 
-<!-- TODO: Add more projects here in the same format as above, e.g.:
+## 🛠 Tech Stack
 
-### 🏷️ Project Name
+<div align="center">
+  <img width="100%" alt="Tech Stack" src="https://github.com/user-attachments/assets/dbab547f-f176-481a-95ea-bf0a7a5768d9" />
+</div>
 
-Short description of what it does and why it's interesting.
+---
 
-**Highlights**
-- Bullet point 1
-- Bullet point 2
+## 🚀 Featured Projects
 
-**Tech Stack**
+| Project Name | Description / Repository Link |
+| :--- | :--- |
+| **🎙️ AI News Anchor** | 🔗 [View Repository](https://github.com/gauravsp1555/AI_New_Anchor) |
+| **📄 AI Resume Analyzer** | 🔗 [View Repository](https://github.com/gauravsp1555/AI_RESUME_ANALYZER-) |
+| **✅ React To-Do App** | 🔗 [View Repository](https://github.com/gauravsp1555/React-Todo-App) |
 
-`Python` • `TensorFlow` • `Pandas`
+---
 
-🔗 Repository: https://github.com/gauravsp1555/your-repo
+## 💼 Experience
 
--->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Experience
+### 🏢 TechTech (https://www.techtech.in/#work)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=58A6FF&vCenter=true&width=400&lines=Application+Intern;Software+Development;Data-Driven+Solutions" alt="Typing SVG" />
 
-### 🏢 Tech Tech Company (https://www.techtech.in/#work)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=400&lines=Application+Intern;Software+Development;Data-Driven+Solutions" alt="Typing SVG" />
-
-**Timeline:** [June-2026] – Present  
+**Timeline:** *June 2026 – Present*  
 - 🚀 Contributing to software development by assisting the team in building applications and resolving bugs.
 - 🧠 Designing solutions that are both functional and data-driven, blending full-stack development with data analysis.
 - 💡 Passionate about creating intelligent, scalable, and user-focused applications.
----
-### 🏢 SURE Trust Organization (https://www.suretrustforruralyouth.com/)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&vCenter=true&width=400&lines=AI%2FML+Artificial_Intelligence;and+Machine_learning" alt="Typing SVG" />
 
-**Timeline:** [Nov-2025] – [Feb-2026]  
+### 🏢 SURE Trust Organization (https://www.suretrustforruralyouth.com/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=39FF14&vCenter=true&width=400&lines=AI%2FML+Artificial_Intelligence;and+Machine_learning" alt="Typing SVG" />
+
+**Timeline:** *Nov 2025 – Feb 2026*  
 - 🤖 Worked on applied machine learning and data science tasks.
 - 📊 Gained hands-on experience with deep learning and Natural Language Processing (NLP) workflows.
 
-##  Currently Building
+---
 
-<!-- TODO: List what you're actively working on/learning -->
-- 🧠 Local LLM And Edge AI 
+## 🌱 Currently Building & Learning
+
+- 🧠 Local LLMs and Edge AI 
 - 🤖 Generative AI applications
 - 📊 Data Science & Analytics
+
 ---
 
-##  GitHub Activity
+## 📈 GitHub Activity & Statistics
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsp1555&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsp1555&theme=github-dark&hide_border=true" width="100%"/>
 </div>
-
----
-
-##  GitHub Statistics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gauravsp1555/gauravsp1555/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravsp1555&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsp1555&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=gauravsp1555&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gauravsp1555/gauravsp1555/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravsp1555&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsp1555&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=gauravsp1555&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
 </div>
 
 ---
@@ -135,16 +112,16 @@ Short description of what it does and why it's interesting.
 
 <p align="center">
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL_HERE@gmail.com">
+  <a href="mailto:gauravsapkar75@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" />
   </a>&nbsp;&nbsp;
   
-  <!-- LinkedIn -->
+  <!-- LinkedIn (Replace YOUR_LINKEDIN_USERNAME with your actual id) -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" />
   </a>&nbsp;&nbsp;
 
-  <!-- Twitter / X -->
+  <!-- Twitter / X (Replace YOUR_TWITTER_USERNAME with your actual id) -->
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" />
   </a>&nbsp;&nbsp;
@@ -156,5 +133,5 @@ Short description of what it does and why it's interesting.
 </p>
 
 <p align="center">
-  <i>Always open to discussing Full-Stack Development, Data Science, and Machine Learning Created By Gaurav 🚀</i>
+  <i>Always open to discussing Full-Stack Development, Data Science, and Machine Learning. Created By Gaurav 🚀</i>
 </p>
