@@ -10,6 +10,7 @@
 <a href="https://github.com/gauravsp1555">
   <img src="https://komarev.com/ghpvc/?username=gauravsp1555&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
+
 <a href="https://github.com/gauravsp1555?tab=followers">
   <img src="https://img.shields.io/github/followers/gauravsp1555?style=for-the-badge&color=58a6ff" alt="Followers"/>
 </a>
@@ -19,41 +20,44 @@
 <h1 align="center">
   <span style="color:#3498DB">📍 Pune, India • Application Intern @TechTech • Full Stack Engineer</span>
 </h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,firebase,git,github,bootstrap,figma,mysql&theme=dark" alt="Skills"/>
-</p>
-
 <hr>
 
 ## 👨‍💻 About Me
 
+Hi, I’m **Gaurav Sapkar**, a Computer Engineering student and Application Intern at **TechTech** in Pune, India.
+
+I’m developing my skills in full-stack software development and enjoy working on applications that solve practical problems. In my internship, I assist with application development and bug fixes, while learning how software teams build and improve products.
+
+I have also gained experience with AI/ML and data science through my work with **SURE Trust**, including exposure to deep learning and natural language processing. I’m interested in combining application development with data-driven and AI-powered features.
+
+My current learning interests include generative AI, local language models, edge AI, and data analytics. I’m always looking for opportunities to learn, contribute to meaningful projects, and grow as a developer.
+
+---
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=gauravsapkar75@gmail.com;Application+Intern+%40TechTech;Full-Stack+Developer;" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,firebase,git,github,bootstrap,figma,mysql&theme=dark" alt="Skills"/>
 </p>
 
-Hi, I’m **Gaurav Sapkar**, a Computer Engineering student and Application Intern at TechTech.  
-Currently, I contribute to software development by assisting the team in building applications and resolving bugs. My journey blends **full-stack development** with **data analysis** and **data science**, enabling me to design solutions that are both functional and data-driven.  
-I’m passionate about creating intelligent, scalable, and user-focused applications while continuously learning and improving my skills.
-
 ---
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img width="100%" alt="Tech Stack" src="https://github.com/user-attachments/assets/dbab547f-f176-481a-95ea-bf0a7a5768d9" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
-| Project Name | Description / Repository Link |
-| :--- | :--- |
-| **🎙️ AI News Anchor** | 🔗 [View Repository](https://github.com/gauravsp1555/AI_New_Anchor) |
-| **📄 AI Resume Analyzer** | 🔗 [View Repository](https://github.com/gauravsp1555/AI_RESUME_ANALYZER-) |
-| **✅ React To-Do App** | 🔗 [View Repository](https://github.com/gauravsp1555/React-Todo-App) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🏨 PG Management System** | End-to-end application for managing PG operations, residents, rooms, payments, and records. | `React` `Node.js` `Firebase` `MySQL` |
+| **🛍️ Zayrenza** | A modern application for browsing products and managing an organized shopping experience. | `HTML` `CSS` `JavaScript` |
+| **🎙️ AI News Anchor** | AI-powered news generation and presentation project. | `Python` `AI/ML` |
+| **📄 AI Resume Analyzer** | Analyzes resumes and provides intelligent improvement insights. | `Python` `Generative AI` |
+| **✅ React To-Do App** | Task management application built with React. | `React` `JavaScript` |
+---
 
+
+## 🏨 PG Management System — Demo
+
+A complete web application for managing PG accommodations, residents, rooms, rents, and other daily operations.
+
+[![Watch the PG Management System demo](https://img.youtube.com/vi/UY8c41SZ3TA/maxresdefault.jpg)](https://youtu.be/UY8c41SZ3TA)
+
+> GitHub cannot autoplay YouTube videos inside a README. Click the preview above to play it on YouTube.
 ---
 
 ## 💼 Experience
@@ -65,22 +69,13 @@ I’m passionate about creating intelligent, scalable, and user-focused applicat
 - 🚀 Contributing to software development by assisting the team in building applications and resolving bugs.
 - 🧠 Designing solutions that are both functional and data-driven, blending full-stack development with data analysis.
 - 💡 Passionate about creating intelligent, scalable, and user-focused applications.
-
+---
 ### 🏢 SURE Trust Organization (https://www.suretrustforruralyouth.com/)
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=39FF14&vCenter=true&width=400&lines=AI%2FML+Artificial_Intelligence;and+Machine_learning" alt="Typing SVG" />
 
 **Timeline:** *Nov 2025 – Feb 2026*  
 - 🤖 Worked on applied machine learning and data science tasks.
 - 📊 Gained hands-on experience with deep learning and Natural Language Processing (NLP) workflows.
-
----
-
-## 🌱 Currently Building & Learning
-
-- 🧠 Local LLMs and Edge AI 
-- 🤖 Generative AI applications
-- 📊 Data Science & Analytics
-
 ---
 
 ## 📈 GitHub Activity & Statistics
